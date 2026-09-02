@@ -1,0 +1,65 @@
+Windows-Verwaltung & Systemsteuerung
+
+sysdm.cpl – Systemeigenschaften (Computernamen ändern, Domänenbeitritt, Umgebungsvariablen)
+
+ncpa.cpl – Netzwerkverbindungen (IP-Adressen, DNS, Netzwerkkarten konfigurieren)
+
+appwiz.cpl – Programme und Features (Software deinstallieren / Windows-Features aktivieren)
+
+firewall.cpl – Windows Defender Firewall (Einfache Firewall-Steuerung)
+
+wf.msc – Erweiterte Firewall-Sicherheit (Inbound/Outbound-Regeln einrichten)
+
+control – Klassische Systemsteuerung öffnen
+-----------------------------------------------------------------------------------------------
+
+
+Benutzer-, Rechte- & Richtlinienverwaltung
+
+lusrmgr.msc – Lokale Benutzer und Gruppen (Benutzer anlegen, Passwörter zurücksetzen, Gruppen zuweisen)
+
+netplwiz – Benutzerkonten (Autologin einrichten, Kennwortzwang deaktivieren)
+
+gpedit.msc – Lokaler Gruppenrichtlinien-Editor (Kiosk-Modus, Sicherheitseinstellungen)
+
+secpol.msc – Lokale Sicherheitsrichtlinie (Passwortkomplexität, Kontosperrung)
+-----------------------------------------------------------------------------------------------------------
+
+
+Speicher-, Festplatten- & System-Tools
+
+diskmgmt.msc – Datenträgerverwaltung (Festplatten partitionieren, Volume erweitern/verkleinern, Formatieren)
+
+services.msc – Dienste (Dienste starten, stoppen, Starttyp auf Automatisch/Manuell stellen)
+
+compmgmt.msc – Computerverwaltung (Zentrale Übersicht: Ereignisanzeige, Freigaben, Datenträger)
+
+devmgmt.msc – Geräte-Manager (Treiber überprüfen und installieren)
+
+eventvwr.msc – Ereignisanzeige (System- und Anwendungsprotokolle/Fehler analysieren)
+
+taskmgr – Task-Manager (Prozesse und Autostart verwalten)
+
+regedit – Registrierungs-Editor (Registry-Anpassungen vornehmen)
+------------------------------------------------------------------------------------------------------------------
+
+Windows Server & Active Directory (AD RSAT)
+dsa.msc – Active Directory-Benutzer und -Computer (OUs, Gruppen, Domain-User verwalten)
+
+gpmc.msc – Gruppenrichtlinienverwaltung (GPO auf Domänenebene erstellen und verknüpfen)
+
+dnsmgmt.msc – DNS-Manager (Forward-/Reverse-Lookupzonen, A-Records, CNAMEs anlegen)
+
+dhcpmgmt.msc – DHCP-Manager (Bereiche/Scopes, Reservierungen, Optionen einrichten)
+
+fsmgmt.msc – Freigegebene Ordner (Aktive Sitzungen und geöffnete Dateien einsehen)
+---------------------------------------------------------------------------------------------------------------
+
+Shells & Terminal
+cmd – Eingabeaufforderung
+
+powershell – Windows PowerShell
+
+-----------------------------------------------------------------------------------------------
+
+
